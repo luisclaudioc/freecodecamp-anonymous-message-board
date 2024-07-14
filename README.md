@@ -5,6 +5,7 @@ This project was developed as part of the freeCodeCamp curriculum.
 ## Technologies
 - Node.js, Express, CORS
 - Mongoose, MongoDB
+- Helmet
 
 ## Acknowledgements
 
